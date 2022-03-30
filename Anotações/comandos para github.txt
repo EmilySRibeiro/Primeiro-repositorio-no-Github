@@ -1,0 +1,6 @@
+git clone: clonar um repositorio do github para minha maquina 
+git add * =  isso daqui add tudo na pasta, o * era tudo pelo menos (add tudo, caso tenha alguma alteração da pasta clone)
+git add . = também add tudo 
+git commit -m "commit inicial(nome do commit)"= para fazer um commit
+git status=fala em que estado ele tá, untracked, modified e Staged (pra ver se ta tudo bem)
+git push -u origin main= para ele empurrar o subir no github
